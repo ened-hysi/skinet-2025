@@ -21,4 +21,5 @@ import { CurrencyPipe } from '@angular/common';
 })
 export class OrderSummaryComponent {
   cartService = inject(CartService);
+  
 }
